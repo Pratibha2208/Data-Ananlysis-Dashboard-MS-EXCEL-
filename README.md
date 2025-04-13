@@ -20,7 +20,6 @@ This project showcases a **professional data analysis dashboard built using Micr
 
 ## 📁 Files Included
 
-- Excel workbook (.xlsx) with the complete dashboard  
 - Raw data sheets  
 - Visualizations on separate dashboard sheets  
 
